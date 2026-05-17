@@ -62,7 +62,7 @@ The actual application repository is cloned separately.
 
 ```bash
 git clone https://github.com/pollen-robotics/reachy-mini-desktop-app.git
-cd reachy-mini-desktop-app/reachy_mini_desktop_app
+cd reachy-mini-desktop-app
 ```
 
 ---
@@ -168,7 +168,7 @@ nix-collect-garbage -d
 
 ---
 
-## 📌 Notes
+## Notes
 
 This environment is designed specifically for:
 
